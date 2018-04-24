@@ -1,6 +1,6 @@
 {
   "name": "@umm/extra_linq",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "ExtraLINQ provides a set of extension methods for various .NET sequence types.",
   "homepage": "https://github.com/umm-projects/extra_linq",
   "bugs": {
