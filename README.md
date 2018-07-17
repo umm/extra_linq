@@ -11,7 +11,7 @@
 ## Install
 
 ```shell
-$ npm install github:umm-projects/extra_linq
+$ npm install github:umm/extra_linq
 ```
 
 # Usage

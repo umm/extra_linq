@@ -2,9 +2,9 @@
   "name": "@umm/extra_linq",
   "version": "1.2.0",
   "description": "ExtraLINQ provides a set of extension methods for various .NET sequence types.",
-  "homepage": "https://github.com/umm-projects/extra_linq",
+  "homepage": "https://github.com/umm/extra_linq",
   "bugs": {
-    "url": "https://github.com/umm-projects/extra_linq/issues"
+    "url": "https://github.com/umm/extra_linq/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -18,14 +18,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/extra_linq"
+    "url": "git@github.com:umm/extra_linq"
   },
   "files": [
     "Assets",
     "scripts"
   ],
   "dependencies": {
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
